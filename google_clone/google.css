@@ -1,0 +1,60 @@
+﻿.tree {
+    float: left;
+    height: 76px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.alt{
+  text-align:center;
+  background-color:#eaece5;
+  
+  
+}
+.blue{
+  text-align:center;
+  padding-right:200px;
+  padding-left:200px;
+  
+
+  
+  
+  
+}
+.green{
+  text-align:center;
+  padding-right:100px;
+  padding-left:100px;
+  margin:0px;
+  
+  
+}
+p{
+  margin:0px
+}
+
+}
+.son{
+  width: 500px;
+  font-size: 12px;
+ }
+.treeHome {
+  width: 850px;
+  padding-top:2px;
+  margin:auto;
+}
+.ayak{
+  text-align:center;
+}
+.rnk1{
+  background-color:#80ced6;
+}
+.rnk2{
+  background-color:#77a8a8;
+}
+.rnk3{
+  background-color:#87bdd8;
+}
